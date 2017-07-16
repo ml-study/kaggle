@@ -1,2 +1,4 @@
 # kaggle
-kaggleの勉強 https://www.kaggle.com/competitions
+kaggleの勉強
+
+[問題ページ](https://www.kaggle.com/competitions)
